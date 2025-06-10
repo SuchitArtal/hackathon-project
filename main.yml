@@ -1,0 +1,4 @@
+- name: Run backend tests
+  run: |
+    cd backend
+    npm run test -- --passWithNoTests 
