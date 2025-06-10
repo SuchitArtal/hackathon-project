@@ -1,4 +1,4 @@
-# JnanaSetu - Educational Skill Assessment Platform
+#Educational Skill Assessment Platform
 
 A full-stack platform for personalized skill assessment and learning roadmap generation.
 
@@ -21,8 +21,8 @@ A full-stack platform for personalized skill assessment and learning roadmap gen
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/jnana-setu.git
-   cd jnana-setu
+   git clone https://github.com/yourusername/hackathon-project.git
+   cd hackthon-project
    ```
 
 2. **Configure environment variables:**
@@ -125,7 +125,7 @@ SELECT * FROM "user";
 ## Project Structure
 
 ```
-jnana-setu/
+
 ├── frontend/           # React + TypeScript frontend
 ├── backend/            # Express.js backend
 ├── auth-service/       # FastAPI Auth service
